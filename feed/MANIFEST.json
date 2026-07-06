@@ -1,0 +1,11 @@
+{
+ "publisher": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e",
+ "shards": [
+  "records-00001.jsonl",
+  "records-00002.jsonl",
+  "records-00003.jsonl",
+  "records-00004.jsonl",
+  "records-00005.jsonl"
+ ],
+ "records": 93813
+}
