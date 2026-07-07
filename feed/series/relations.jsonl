@@ -1,0 +1,21 @@
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:MSFT US", "kind": "finfield-relation", "rel": "classified-as", "to": "sector:Technology", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:MSFT US", "kind": "finfield-relation", "rel": "domiciled-in", "to": "country:US", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:MSFT US", "kind": "finfield-relation", "rel": "revenue-from", "to": "country:US", "weight": 51}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:MSFT US", "kind": "finfield-relation", "rel": "revenue-from", "to": "country:Other", "weight": 49}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:MSFT US", "kind": "finfield-relation", "rel": "peer-of", "to": "ticker:AAPL US", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:MSFT US", "kind": "finfield-relation", "rel": "peer-of", "to": "ticker:NVDA US", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:AAPL US", "kind": "finfield-relation", "rel": "classified-as", "to": "sector:Technology", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:AAPL US", "kind": "finfield-relation", "rel": "domiciled-in", "to": "country:US", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:AAPL US", "kind": "finfield-relation", "rel": "revenue-from", "to": "country:US", "weight": 36}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:AAPL US", "kind": "finfield-relation", "rel": "revenue-from", "to": "country:CN", "weight": 15}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:AAPL US", "kind": "finfield-relation", "rel": "revenue-from", "to": "country:Other", "weight": 48}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:AAPL US", "kind": "finfield-relation", "rel": "peer-of", "to": "ticker:MSFT US", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:AAPL US", "kind": "finfield-relation", "rel": "peer-of", "to": "ticker:NVDA US", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:NVDA US", "kind": "finfield-relation", "rel": "classified-as", "to": "sector:Technology", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:NVDA US", "kind": "finfield-relation", "rel": "domiciled-in", "to": "country:US", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:NVDA US", "kind": "finfield-relation", "rel": "revenue-from", "to": "country:US", "weight": 69}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:NVDA US", "kind": "finfield-relation", "rel": "revenue-from", "to": "country:TW", "weight": 20}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:NVDA US", "kind": "finfield-relation", "rel": "revenue-from", "to": "country:ChinaIncludi", "weight": 9}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:NVDA US", "kind": "finfield-relation", "rel": "revenue-from", "to": "country:Other", "weight": 2}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:NVDA US", "kind": "finfield-relation", "rel": "peer-of", "to": "ticker:AAPL US", "weight": 1}
+{"author": "pls1adzrkahczs3yqcfeciuwwnnkbcmy3sbl6e", "from": "ticker:NVDA US", "kind": "finfield-relation", "rel": "peer-of", "to": "ticker:MSFT US", "weight": 1}
