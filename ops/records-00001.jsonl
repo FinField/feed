@@ -1,1 +1,2 @@
 {"kind":"relay-status","host":"5mart.ml","t":1784588562,"ok":1,"node_count":1,"mailboxes":2,"frames_total":7,"queue_bytes":40,"peer_reachable":0}
+{"kind":"relay-status","host":"5mart.ml","t":1784588792,"ok":1,"node_count":1,"mailboxes":2,"frames_total":8,"queue_bytes":40,"peer_reachable":0}
